@@ -1,1 +1,2 @@
-Start todolist
+
+Выносим компоненту из App
