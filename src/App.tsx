@@ -3,11 +3,14 @@ import './App.css';
 import {Todolist} from "./Todolist";
 
 // A task. Draw three components.
-//     Pass to the first component in the string `<h3>What to learn</h3>` "123", to the second "js", to the third "45"
+//     Pass to the first component in the string `<h3>What to learn</h3>` "123",
+//     to the second "js", to the third "45"
 function App() {
     return (
         <div className="App">
-            <Todolist/>
+            <Todolist title={123}/>
+            <Todolist title={"js"}/>
+            <Todolist title={45}/>
         </div>
     );
 }
