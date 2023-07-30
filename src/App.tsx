@@ -11,9 +11,9 @@ function App() {
                     <button>+</button>
                 </div>
                 <ul>
-                    <li><input type="checkbox" checked={true}/> <span>HTML&CSS</span></li>
-                    <li><input type="checkbox" checked={true}/> <span>JS</span></li>
-                    <li><input type="checkbox" checked={false}/> <span>React</span></li>
+                    <li><input type="checkbox" readOnly={true} checked={true}/> <span>HTML&CSS</span></li>
+                    <li><input type="checkbox" readOnly={true} checked={true}/> <span>JS</span></li>
+                    <li><input type="checkbox" readOnly={true} checked={false}/> <span>React</span></li>
                 </ul>
                 <div>
                     <button>All</button>
