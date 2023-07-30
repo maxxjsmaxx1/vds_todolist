@@ -1,13 +1,11 @@
 import React from "react";
 
 
-type PropsType={
-    title?:number|string
-}
-export const Todolist = (props:PropsType) => {
+
+export const Todolist = () => {
     return (
         <div>
-            <h3>{props.title}</h3>
+            <h3>what's to learn</h3>
             <div>
                 <input/>
                 <button>+</button>
