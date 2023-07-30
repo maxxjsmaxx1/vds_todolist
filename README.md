@@ -1,3 +1,3 @@
-4 creating the `Todolist` component and transferring data from the `App` component to it
+5 moving component `Todolist` to a separate file
 
-4 создание компонента `Todolist` и перенос в него данных из компонента `App`
+5 перемещение компонента `Todolist` в отдельный файл
