@@ -1,2 +1,2 @@
-10 monday-1. adding two arrays
+11 passing the array to Todolist
 
