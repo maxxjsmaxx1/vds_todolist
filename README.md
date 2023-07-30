@@ -1,3 +1,2 @@
-8 A task 2023.05.21 1756.Remove the `title` in the last component
+9 task results 2023.05.21 1756
 
-8 Задача 2023.05.21 1756.Удалить `title` в последнем компоненте

@@ -2,7 +2,7 @@ import React from "react";
 
 
 type PropsType={
-    title:number|string
+    title?:number|string
 }
 export const Todolist = (props:PropsType) => {
     return (

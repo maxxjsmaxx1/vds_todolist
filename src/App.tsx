@@ -8,7 +8,7 @@ function App() {
         <div className="App">
             <Todolist title={123}/>
             <Todolist title={"js"}/>
-            <Todolist title={45}/>
+            <Todolist/>
         </div>
     );
 }
