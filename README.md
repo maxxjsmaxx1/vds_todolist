@@ -1,3 +1,3 @@
-3 adding readOnly
+4 creating the `Todolist` component and transferring data from the `App` component to it
 
-Временно добавляем readOnly, чтобы исчезла ошибка в консоли
+4 создание компонента `Todolist` и перенос в него данных из компонента `App`
