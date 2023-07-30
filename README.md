@@ -1,2 +1,2 @@
-11 passing the array to Todolist
+12 passing the array to Todolist using map()
 
